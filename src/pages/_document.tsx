@@ -13,8 +13,6 @@ class MyDocument extends Document {
 
           <link rel="shortcut icon" href="/favicon.png" type="image/png" />
           <link rel="apple-touch-icon" href="/favicon.png" type="image/png" />
-
-          <title>Podcastr</title>
         </Head>
 
         <body>
