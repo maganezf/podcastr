@@ -13,7 +13,7 @@
 
   <img alt='Project Top Language' src='https://img.shields.io/github/languages/top/maganezf/podcastr'/>
 
-  <a href='' >
+  <a href='https://podcastr-maganezf.vercel.app/' >
     <img alt='Podcastr' src="https://img.shields.io/badge/Podcastr-04d361"/>
   </a>
 
@@ -45,6 +45,7 @@ contributors
 
 # :pushpin: Table of Contents
 
+- [Live Website](#eyes-live-website)
 - [Technologies](#computer-technologies)
 - [Purpose and Features](#dart-purpose-and-features)
 - [How to Run](#construction_worker-how-to-run)
@@ -66,6 +67,10 @@ contributors
 # <img align='center' src="./.github/web.gif" alt="Logo of Project here" width="350" style="border-radius: 6px;" />
 
 </div>
+
+# :eyes: Live Website
+
+👉 [Click to open Website here](https://podcastr-maganezf.vercel.app/)
 
 # :computer: Technologies
 
